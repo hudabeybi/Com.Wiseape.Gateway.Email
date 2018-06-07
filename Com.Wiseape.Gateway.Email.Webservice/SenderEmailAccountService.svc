@@ -1,0 +1,1 @@
+<%@ServiceHost Language="C#" Debug="true" Service="Com.Wiseape.Gateway.Email.Webservice.SenderEmailAccountService" CodeBehind="SenderEmailAccountService.svc.cs" %>

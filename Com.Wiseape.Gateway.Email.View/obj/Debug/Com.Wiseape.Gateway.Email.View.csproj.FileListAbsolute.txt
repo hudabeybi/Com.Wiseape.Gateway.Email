@@ -1,0 +1,15 @@
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway\Com.Wiseape.Gateway.Webservice\Resources\Dlls\Com.Wiseape.Gateway.View.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway\Com.Wiseape.Gateway.Webservice\Resources\Dlls\Com.Wiseape.Gateway.View.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway\Com.Wiseape.Gateway.View\obj\Debug\Com.Wiseape.Gateway.Email.View.csprojResolveAssemblyReference.cache
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway\Com.Wiseape.Gateway.View\obj\Debug\Com.Wiseape.Gateway.View.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway\Com.Wiseape.Gateway.View\obj\Debug\Com.Wiseape.Gateway.View.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway\Com.Wiseape.Gateway.Email.Webservice\Resources\Dlls\Com.Wiseape.Gateway.Email.View.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway\Com.Wiseape.Gateway.Email.Webservice\Resources\Dlls\Com.Wiseape.Gateway.Email.View.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway\Com.Wiseape.Gateway.Email.View\obj\Debug\Com.Wiseape.Gateway.Email.View.csprojResolveAssemblyReference.cache
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway\Com.Wiseape.Gateway.Email.View\obj\Debug\Com.Wiseape.Gateway.Email.View.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway\Com.Wiseape.Gateway.Email.View\obj\Debug\Com.Wiseape.Gateway.Email.View.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.Email\Com.Wiseape.Gateway.Email.Webservice\Resources\Dlls\Com.Wiseape.Gateway.Email.View.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.Email\Com.Wiseape.Gateway.Email.Webservice\Resources\Dlls\Com.Wiseape.Gateway.Email.View.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.Email\Com.Wiseape.Gateway.Email.View\obj\Debug\Com.Wiseape.Gateway.Email.View.csprojResolveAssemblyReference.cache
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.Email\Com.Wiseape.Gateway.Email.View\obj\Debug\Com.Wiseape.Gateway.Email.View.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.Email\Com.Wiseape.Gateway.Email.View\obj\Debug\Com.Wiseape.Gateway.Email.View.pdb

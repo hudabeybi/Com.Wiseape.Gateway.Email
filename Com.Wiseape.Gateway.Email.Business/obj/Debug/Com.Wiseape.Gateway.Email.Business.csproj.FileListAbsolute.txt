@@ -1,0 +1,15 @@
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway\Com.Wiseape.Gateway.Webservice\Resources\Dlls\Com.Wiseape.Gateway.Business.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway\Com.Wiseape.Gateway.Webservice\Resources\Dlls\Com.Wiseape.Gateway.Business.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway\Com.Wiseape.Gateway.Business\obj\Debug\Com.Wiseape.Gateway.Email.Business.csprojResolveAssemblyReference.cache
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway\Com.Wiseape.Gateway.Business\obj\Debug\Com.Wiseape.Gateway.Business.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway\Com.Wiseape.Gateway.Business\obj\Debug\Com.Wiseape.Gateway.Business.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway\Com.Wiseape.Gateway.Email.Webservice\Resources\Dlls\Com.Wiseape.Gateway.Email.Business.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway\Com.Wiseape.Gateway.Email.Webservice\Resources\Dlls\Com.Wiseape.Gateway.Email.Business.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway\Com.Wiseape.Gateway.Email.Business\obj\Debug\Com.Wiseape.Gateway.Email.Business.csprojResolveAssemblyReference.cache
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway\Com.Wiseape.Gateway.Email.Business\obj\Debug\Com.Wiseape.Gateway.Email.Business.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway\Com.Wiseape.Gateway.Email.Business\obj\Debug\Com.Wiseape.Gateway.Email.Business.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.Email\Com.Wiseape.Gateway.Email.Webservice\Resources\Dlls\Com.Wiseape.Gateway.Email.Business.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.Email\Com.Wiseape.Gateway.Email.Webservice\Resources\Dlls\Com.Wiseape.Gateway.Email.Business.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.Email\Com.Wiseape.Gateway.Email.Business\obj\Debug\Com.Wiseape.Gateway.Email.Business.csprojResolveAssemblyReference.cache
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.Email\Com.Wiseape.Gateway.Email.Business\obj\Debug\Com.Wiseape.Gateway.Email.Business.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.Email\Com.Wiseape.Gateway.Email.Business\obj\Debug\Com.Wiseape.Gateway.Email.Business.pdb
